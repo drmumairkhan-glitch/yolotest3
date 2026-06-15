@@ -2,7 +2,7 @@ import cv2
 import time
 from deepface import DeepFace
 
-# Open the laptop webcam (0 = default camera)
+# Open the laptoppp webcam (0 = default camera)
 cap = cv2.VideoCapture(0)
 
 # Check if the webcam opened successfully
